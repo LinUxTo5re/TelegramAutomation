@@ -1,0 +1,8 @@
+# ingnoring telegram api_id and api_hash from credentials file
+TelegramCred.py
+
+# demo file
+temp.py
+
+# Telegram session
+MySession.session
